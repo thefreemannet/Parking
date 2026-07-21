@@ -16,9 +16,9 @@
   },
   "by_weather": {
     "unknown": 80,
-    "sunny": 52,
+    "rainy": 52,
     "cloudy": 52,
-    "rainy": 52
+    "sunny": 52
   },
   "seed": 42
 }

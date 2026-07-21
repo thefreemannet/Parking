@@ -14,6 +14,19 @@ py -3.12 -m venv .venv
 
 This creates a synthetic PKLot/CNR-style patch set, trains, evaluates, and writes results under `outputs/`.
 
+### macOS
+
+```bash
+cd ".../Introduction to Computer Visio/Parking"
+# If the project lives on a network volume, create the venv on the local disk
+# (pip fails with "Directory not empty" errors on network shares):
+python3 -m venv ~/parking_venv
+~/parking_venv/bin/pip install -r requirements.txt
+~/parking_venv/bin/python run_pipeline.py --demo --epochs 3 --models baseline,mobilenetv3
+```
+
+`src/__init__.py` automatically sets `KMP_DUPLICATE_LIB_OK=TRUE` and `OMP_NUM_THREADS=1` on macOS — without them the evaluation step crashes with SIGABRT because TensorFlow and scikit-learn each load their own copy of the OpenMP runtime.
+
 ## Full datasets
 
 1. Download **PKLot**: https://web.inf.ufpr.br/vri/databases/parking-lot-database/

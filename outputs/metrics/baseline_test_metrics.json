@@ -54,9 +54,9 @@
   "model_size_mb": 1.113,
   "inference": {
     "batch_size": 32,
-    "mean_batch_seconds": 0.19007626333332156,
-    "mean_image_ms": 5.939883229166298,
-    "fps": 168.35347790841277
+    "mean_batch_seconds": 0.05291758753333341,
+    "mean_image_ms": 1.653674610416669,
+    "fps": 604.7138860939725
   },
   "by_condition": {
     "weather": {
@@ -65,43 +65,48 @@
         "accuracy": 0.5555555555555556,
         "f1": 0.0
       },
+      "rainy": {
+        "n": 10,
+        "accuracy": 0.4,
+        "f1": 0.0
+      },
       "sunny": {
-        "n": 7,
-        "accuracy": 0.5714285714285714,
+        "n": 8,
+        "accuracy": 0.25,
         "f1": 0.0
       },
       "unknown": {
-        "n": 16,
-        "accuracy": 0.375,
+        "n": 9,
+        "accuracy": 0.7777777777777778,
         "f1": 0.0
       }
     },
     "dataset": {
       "cnrpark_ext": {
-        "n": 16,
-        "accuracy": 0.375,
+        "n": 9,
+        "accuracy": 0.7777777777777778,
         "f1": 0.0
       },
       "pklot": {
-        "n": 20,
-        "accuracy": 0.6,
+        "n": 27,
+        "accuracy": 0.4074074074074074,
         "f1": 0.0
       }
     },
     "camera": {
       "PUC": {
-        "n": 12,
-        "accuracy": 0.4166666666666667,
+        "n": 16,
+        "accuracy": 0.375,
         "f1": 0.0
       },
       "UFPR04": {
-        "n": 8,
-        "accuracy": 0.875,
+        "n": 11,
+        "accuracy": 0.45454545454545453,
         "f1": 0.0
       },
       "unknown": {
-        "n": 16,
-        "accuracy": 0.375,
+        "n": 9,
+        "accuracy": 0.7777777777777778,
         "f1": 0.0
       }
     }
