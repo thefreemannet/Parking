@@ -1,0 +1,2126 @@
+[
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0000.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0001.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0002.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0003.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0004.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0005.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0006.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0007.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0008.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0009.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0010.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0011.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Empty\\PUC_Sunny_Empty_0012.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0000.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0001.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0002.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0003.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0004.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0005.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0006.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0007.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0008.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0009.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0010.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0011.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Sunny\\Occupied\\PUC_Sunny_Occupied_0012.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0000.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0001.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0002.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0003.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0004.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0005.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0006.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0007.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0008.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0009.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0010.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0011.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Empty\\PUC_Cloudy_Empty_0012.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0000.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0001.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0002.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0003.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0004.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0005.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0006.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0007.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0008.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0009.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0010.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0011.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Cloudy\\Occupied\\PUC_Cloudy_Occupied_0012.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0000.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0001.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0002.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0003.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0004.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0005.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0006.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0007.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0008.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0009.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0010.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0011.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Empty\\PUC_Rainy_Empty_0012.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0000.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0001.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0002.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0003.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0004.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0005.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0006.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0007.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0008.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0009.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0010.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0011.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\PUC\\Rainy\\Occupied\\PUC_Rainy_Occupied_0012.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "PUC",
+    "camera": "PUC",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0000.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0001.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0002.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0003.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0004.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0005.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0006.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0007.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0008.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0009.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0010.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0011.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Empty\\UFPR04_Sunny_Empty_0012.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0000.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0001.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0002.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0003.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0004.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0005.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0006.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0007.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0008.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0009.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0010.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0011.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Sunny\\Occupied\\UFPR04_Sunny_Occupied_0012.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0000.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0001.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0002.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0003.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0004.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0005.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0006.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0007.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0008.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0009.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0010.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0011.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Empty\\UFPR04_Cloudy_Empty_0012.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0000.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0001.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0002.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0003.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0004.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0005.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0006.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0007.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0008.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0009.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0010.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0011.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Cloudy\\Occupied\\UFPR04_Cloudy_Occupied_0012.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0000.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0001.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0002.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0003.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0004.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0005.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0006.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0007.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0008.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0009.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0010.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0011.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Empty\\UFPR04_Rainy_Empty_0012.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0000.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0001.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0002.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0003.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0004.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0005.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0006.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0007.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0008.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0009.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0010.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0011.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\PKLot\\PKLotSegmented\\UFPR04\\Rainy\\Occupied\\UFPR04_Rainy_Occupied_0012.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "pklot",
+    "scene": "UFPR04",
+    "camera": "UFPR04",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0000.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0001.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0002.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0003.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0004.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0005.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0006.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0007.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0008.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0009.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0010.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0011.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0012.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0013.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0014.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0015.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0016.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0017.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0018.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0019.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0020.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0021.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0022.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0023.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0024.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0025.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0026.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0027.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0028.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0029.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0030.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0031.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0032.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0033.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0034.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0035.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0036.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0037.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0038.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\free\\cnr_free_0039.jpg",
+    "label": 0,
+    "label_name": "empty",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0000.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0001.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0002.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0003.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0004.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0005.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0006.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0007.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0008.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0009.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0010.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0011.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0012.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0013.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0014.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0015.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0016.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0017.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0018.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0019.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0020.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0021.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0022.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0023.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0024.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0025.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0026.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0027.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0028.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0029.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0030.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0031.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0032.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0033.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0034.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0035.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0036.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0037.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "cloudy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0038.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "rainy"
+  },
+  {
+    "path": "data\\raw\\CNRPark-EXT\\PATCHES\\busy\\cnr_busy_0039.jpg",
+    "label": 1,
+    "label_name": "occupied",
+    "dataset": "cnrpark_ext",
+    "scene": "cnr_cam_a",
+    "camera": "cnr_cam_a",
+    "weather": "sunny"
+  }
+]

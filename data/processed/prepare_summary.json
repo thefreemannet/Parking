@@ -1,0 +1,24 @@
+{
+  "n_images": 236,
+  "excluded_duplicates": 0,
+  "by_split": {
+    "train": 165,
+    "test": 36,
+    "val": 35
+  },
+  "by_label": {
+    "empty": 118,
+    "occupied": 118
+  },
+  "by_dataset": {
+    "pklot": 156,
+    "cnrpark_ext": 80
+  },
+  "by_weather": {
+    "unknown": 80,
+    "sunny": 52,
+    "cloudy": 52,
+    "rainy": 52
+  },
+  "seed": 42
+}

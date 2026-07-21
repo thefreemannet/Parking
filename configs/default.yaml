@@ -1,0 +1,49 @@
+# Reproducible experiment config — Parking Occupancy Detection
+seed: 42
+image_size: [224, 224]
+batch_size: 32
+epochs: 15
+learning_rate: 0.0001
+early_stopping_patience: 5
+train_ratio: 0.70
+val_ratio: 0.15
+test_ratio: 0.15
+
+# Paths (relative to project root)
+data_raw: data/raw
+data_processed: data/processed
+outputs: outputs
+
+datasets:
+  - pklot
+  - cnrpark_ext
+
+models:
+  - baseline
+  - mobilenetv3
+  - vgg16
+  - resnet50
+
+# Moderate augmentation (train only) — must not invalidate occupancy label
+augmentation:
+  brightness_delta: 0.15
+  rotation_range: 10
+  width_shift_range: 0.08
+  height_shift_range: 0.08
+  horizontal_flip: true
+
+# Optional full-scene detection track
+yolo:
+  enabled: false
+  models:
+    - yolov8s
+    - yolo11n
+  epochs: 50
+  imgsz: 640
+
+# Condition metadata keys when available in inventory
+condition_keys:
+  - weather
+  - dataset
+  - camera
+  - scene

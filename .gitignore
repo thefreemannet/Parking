@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+smoke_*.log
+
+# Raw datasets (download separately; too large for GitHub)
+data/raw/
+
+# Model weights (retrain or download separately)
+outputs/models/
+*.keras
+*.h5
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Optional YOLO runs
+runs/
+wandb/

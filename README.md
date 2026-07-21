@@ -1,0 +1,62 @@
+# Parking Space Detection (CAI2840C)
+
+Comparative experiment from the research proposal: **MobileNetV3, VGG16, ResNet50** (+ simple CNN baseline) for parking-space occupancy classification on **PKLot** and **CNRPark-EXT**, with condition-level metrics and inference timing.
+
+## Quick start (demo — no large downloads)
+
+```powershell
+cd "...\Introduction to Computer Visio\Parking"
+# Use Python 3.10–3.12 (TensorFlow has no wheels for 3.14 yet)
+py -3.12 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe run_pipeline.py --demo --epochs 3 --models baseline,mobilenetv3
+```
+
+This creates a synthetic PKLot/CNR-style patch set, trains, evaluates, and writes results under `outputs/`.
+
+## Full datasets
+
+1. Download **PKLot**: https://web.inf.ufpr.br/vri/databases/parking-lot-database/
+2. Download **CNRPark-EXT**: http://cnrpark.it/
+3. Unpack into:
+
+```text
+data/raw/PKLot/PKLotSegmented/...
+data/raw/CNRPark-EXT/PATCHES/{free|busy}/...
+```
+
+Or: `python -m src.download_datasets --from-zip PATH\to\archive.zip --dest-name PKLot`
+
+Then:
+
+```powershell
+python -m src.prepare_data
+python -m src.train --model all
+python -m src.evaluate --model all
+```
+
+## Project layout
+
+| Path | Role |
+|------|------|
+| `configs/default.yaml` | Seed, splits, epochs, augmentation |
+| `src/download_datasets.py` | Demo data / zip import / inventory check |
+| `src/prepare_data.py` | Inventory + scene-aware train/val/test split |
+| `src/models.py` | Baseline + transfer-learning classifiers |
+| `src/train.py` / `src/evaluate.py` | Training and test metrics |
+| `src/yolo_train.py` | Optional YOLOv8s / YOLO11n (off by default) |
+| `notebooks/01_parking_occupancy_experiment.ipynb` | Guided notebook |
+| `outputs/` | Checkpoints, figures, metric JSON/CSV |
+
+## Metrics reported
+
+Accuracy, precision, recall, F1 (and macro-F1), confusion matrices, 95% bootstrap CIs, model size (MB), mean inference ms/image and FPS, plus breakdowns by weather/dataset when metadata exists.
+
+## Notes
+
+- Use **Python 3.10–3.12** (TensorFlow still lacks wheels for 3.14).
+- Image loading uses **PIL** so training works on Windows **UNC/network shares** (TF's `tf.io.read_file` often fails there).
+- Splits prefer **scene/camera grouping** to reduce near-duplicate leakage (proposal §Procedure); with few scenes (demo) the code falls back to stratified image splits.
+- Augmentation is applied **only on the training partition**.
+- Set `yolo.enabled: true` in `configs/default.yaml` only after preparing YOLO-format full-scene labels under `data/processed/yolo/`.
+- For faster I/O, you may copy the project to a local disk (e.g. `C:\Parking`) and run from there.
