@@ -75,6 +75,7 @@ python -m src.evaluate --model all
 | `src/train.py` / `src/evaluate.py` | Training and test metrics |
 | `src/yolo_train.py` | Optional YOLOv8s / YOLO11n (off by default) |
 | `notebooks/01_parking_occupancy_experiment.ipynb` | Guided notebook |
+| `presentations/Parking_Occupancy_Research_Presentation.pptx` | Class research talk (~15 min) |
 | `outputs/` | Checkpoints, figures, metric JSON/CSV |
 
 ## Metrics reported
