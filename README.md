@@ -1,6 +1,7 @@
 # Parking Space Detection (CAI2840C)
 
-Comparative experiment from the research proposal: **MobileNetV3, VGG16, ResNet50** (+ simple CNN baseline) for parking-space occupancy classification on **PKLot** and **CNRPark-EXT**, with condition-level metrics and inference timing.
+**Authors:** Joaquin Gimeno, Fernando Jauregui, and Eliot Rudes  
+Comparative experiment from the research proposal *Parking Space Detection Using Computer Vision and Deep Learning*: **MobileNetV3, VGG16, ResNet50** (+ simple CNN baseline) for parking-space occupancy classification on **PKLot** and **CNRPark-EXT**, with condition-level metrics and inference timing. Optional full-scene detection with **YOLOv8s** / **YOLO11n** remains off until YOLO-format labels exist.
 
 ## Quick start (demo — no large downloads)
 
@@ -9,8 +10,10 @@ cd "...\Introduction to Computer Visio\Parking"
 # Use Python 3.10–3.12 (TensorFlow has no wheels for 3.14 yet)
 py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe run_pipeline.py --demo --epochs 3 --models baseline,mobilenetv3
+.\.venv\Scripts\python.exe run_pipeline.py --demo --epochs 3 --models all
 ```
+
+Omit `--models` (or pass `--models all`) to train the full proposal set: `baseline,mobilenetv3,vgg16,resnet50`. For a faster smoke test use `--models baseline,mobilenetv3`.
 
 This creates a synthetic PKLot/CNR-style patch set, trains, evaluates, and writes results under `outputs/`.
 
@@ -22,7 +25,7 @@ cd ".../Introduction to Computer Visio/Parking"
 # (pip fails with "Directory not empty" errors on network shares):
 python3 -m venv ~/parking_venv
 ~/parking_venv/bin/pip install -r requirements.txt
-~/parking_venv/bin/python run_pipeline.py --demo --epochs 3 --models baseline,mobilenetv3
+~/parking_venv/bin/python run_pipeline.py --demo --epochs 3
 ```
 
 `src/__init__.py` automatically sets `KMP_DUPLICATE_LIB_OK=TRUE` and `OMP_NUM_THREADS=1` on macOS — without them the evaluation step crashes with SIGABRT because TensorFlow and scikit-learn each load their own copy of the OpenMP runtime.
@@ -48,6 +51,19 @@ python -m src.train --model all
 python -m src.evaluate --model all
 ```
 
+## Alignment with the research proposal
+
+| Proposal item | Implementation |
+|---------------|----------------|
+| Baseline + MobileNetV3, VGG16, ResNet50 | `configs/default.yaml` → `models`; `src/models.py` |
+| PKLot + CNRPark-EXT | `src/download_datasets.py`, `src/prepare_data.py` |
+| Scene/camera-aware splits, fixed seed | `prepare_data.scene_aware_split`, `seed: 42` |
+| Train-only augmentation (brightness, rotation, shifts, flip) | `augmentation` in config + `get_train_augmenter` |
+| Acc / P / R / F1 / confusion matrices / size / inference time | `src/evaluate.py` |
+| Condition-level + bootstrap CIs | weather, dataset, camera, scene; 95% CI |
+| Failure-case review | `outputs/metrics/*_failures.csv` + notebook §5 |
+| Optional YOLOv8s / YOLO11n | `yolo.enabled: false` until `data/processed/yolo/` labels exist |
+
 ## Project layout
 
 | Path | Role |
@@ -63,7 +79,7 @@ python -m src.evaluate --model all
 
 ## Metrics reported
 
-Accuracy, precision, recall, F1 (and macro-F1), confusion matrices, 95% bootstrap CIs, model size (MB), mean inference ms/image and FPS, plus breakdowns by weather/dataset when metadata exists.
+Accuracy, precision, recall, F1 (and macro-F1), confusion matrices, 95% bootstrap CIs, model size (MB), mean inference ms/image and FPS, plus breakdowns by weather / dataset / camera / scene when metadata exists.
 
 ## Notes
 

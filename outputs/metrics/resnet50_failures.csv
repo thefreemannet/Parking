@@ -1,0 +1,8 @@
+path,label,label_name,dataset,scene,camera,weather,split,y_pred,prob
+data/raw/PKLot/PKLotSegmented/PUC/Rainy/Occupied/PUC_Rainy_Occupied_0010.jpg,1,occupied,pklot,PUC,PUC,rainy,test,0,0.34197506
+data/raw/CNRPark-EXT/PATCHES/busy/cnr_busy_0000.jpg,1,occupied,cnrpark_ext,unknown,unknown,unknown,test,0,0.45100847
+data/raw/PKLot/PKLotSegmented/PUC/Rainy/Occupied/PUC_Rainy_Occupied_0001.jpg,1,occupied,pklot,PUC,PUC,rainy,test,0,0.32240346
+data/raw/PKLot/PKLotSegmented/PUC/Rainy/Occupied/PUC_Rainy_Occupied_0007.jpg,1,occupied,pklot,PUC,PUC,rainy,test,0,0.35100436
+data/raw/PKLot/PKLotSegmented/PUC/Sunny/Occupied/PUC_Sunny_Occupied_0006.jpg,1,occupied,pklot,PUC,PUC,sunny,test,0,0.38472316
+data/raw/PKLot/PKLotSegmented/PUC/Sunny/Occupied/PUC_Sunny_Occupied_0002.jpg,1,occupied,pklot,PUC,PUC,sunny,test,0,0.39553177
+data/raw/PKLot/PKLotSegmented/PUC/Cloudy/Occupied/PUC_Cloudy_Occupied_0009.jpg,1,occupied,pklot,PUC,PUC,cloudy,test,0,0.42179263

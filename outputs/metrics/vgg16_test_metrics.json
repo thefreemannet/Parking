@@ -1,15 +1,15 @@
 {
-  "model": "baseline",
+  "model": "vgg16",
   "n_test": 36,
-  "accuracy": 0.5,
+  "accuracy": 0.0,
   "precision": 0.0,
   "recall": 0.0,
   "f1": 0.0,
-  "macro_f1": 0.3333333333333333,
+  "macro_f1": 0.0,
   "confusion_matrix": [
     [
-      18,
-      0
+      0,
+      18
     ],
     [
       18,
@@ -18,9 +18,9 @@
   ],
   "classification_report": {
     "empty": {
-      "precision": 0.5,
-      "recall": 1.0,
-      "f1-score": 0.6666666666666666,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
       "support": 18.0
     },
     "occupied": {
@@ -29,101 +29,101 @@
       "f1-score": 0.0,
       "support": 18.0
     },
-    "accuracy": 0.5,
+    "accuracy": 0.0,
     "macro avg": {
-      "precision": 0.25,
-      "recall": 0.5,
-      "f1-score": 0.3333333333333333,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
       "support": 36.0
     },
     "weighted avg": {
-      "precision": 0.25,
-      "recall": 0.5,
-      "f1-score": 0.3333333333333333,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
       "support": 36.0
     }
   },
   "accuracy_ci95": [
-    0.3055555555555556,
-    0.6666666666666666
+    0.0,
+    0.0
   ],
   "f1_ci95": [
     0.0,
     0.0
   ],
-  "model_size_mb": 1.113,
+  "model_size_mb": 56.225,
   "inference": {
     "batch_size": 32,
-    "mean_batch_seconds": 0.054923038966664235,
-    "mean_image_ms": 1.7163449677082574,
-    "fps": 582.6334558694491
+    "mean_batch_seconds": 1.2370226139666642,
+    "mean_image_ms": 38.65695668645826,
+    "fps": 25.868565084180705
   },
   "by_condition": {
     "weather": {
       "cloudy": {
         "n": 9,
-        "accuracy": 0.5555555555555556,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "rainy": {
         "n": 10,
-        "accuracy": 0.4,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "sunny": {
         "n": 8,
-        "accuracy": 0.25,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "unknown": {
         "n": 9,
-        "accuracy": 0.7777777777777778,
+        "accuracy": 0.0,
         "f1": 0.0
       }
     },
     "dataset": {
       "cnrpark_ext": {
         "n": 9,
-        "accuracy": 0.7777777777777778,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "pklot": {
         "n": 27,
-        "accuracy": 0.4074074074074074,
+        "accuracy": 0.0,
         "f1": 0.0
       }
     },
     "camera": {
       "PUC": {
         "n": 16,
-        "accuracy": 0.375,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "UFPR04": {
         "n": 11,
-        "accuracy": 0.45454545454545453,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "unknown": {
         "n": 9,
-        "accuracy": 0.7777777777777778,
+        "accuracy": 0.0,
         "f1": 0.0
       }
     },
     "scene": {
       "PUC": {
         "n": 16,
-        "accuracy": 0.375,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "UFPR04": {
         "n": 11,
-        "accuracy": 0.45454545454545453,
+        "accuracy": 0.0,
         "f1": 0.0
       },
       "unknown": {
         "n": 9,
-        "accuracy": 0.7777777777777778,
+        "accuracy": 0.0,
         "f1": 0.0
       }
     }

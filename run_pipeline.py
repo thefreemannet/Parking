@@ -40,7 +40,10 @@ def main() -> None:
 
     prepare()
 
-    names = cfg["models"] if not args.models else [m.strip() for m in args.models.split(",")]
+    if not args.models or args.models.strip().lower() == "all":
+        names = list(cfg["models"])
+    else:
+        names = [m.strip() for m in args.models.split(",") if m.strip()]
     if not args.skip_train:
         for name in names:
             print(f"\n=== Training {name} ===")

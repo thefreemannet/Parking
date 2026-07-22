@@ -114,12 +114,13 @@ def evaluate_model(model_name: str, cfg: dict | None = None) -> dict:
         metrics["inference"] = measure_inference(model, xb)
         break
 
-    # condition-level
+    # condition-level (proposal: weather / lighting / camera / scene when available)
     test_df = test_df.copy()
     test_df["y_pred"] = y_pred
     test_df["prob"] = probs
+    condition_keys = cfg.get("condition_keys", ["weather", "dataset", "camera", "scene"])
     by_condition = {}
-    for key in ("weather", "dataset", "camera"):
+    for key in condition_keys:
         if key not in test_df.columns:
             continue
         block = {}
@@ -132,7 +133,8 @@ def evaluate_model(model_name: str, cfg: dict | None = None) -> dict:
                 "accuracy": float(accuracy_score(yt, yp)),
                 "f1": float(f1_score(yt, yp, zero_division=0)),
             }
-        by_condition[key] = block
+        if block:
+            by_condition[key] = block
     metrics["by_condition"] = by_condition
 
     # confusion matrix figure
